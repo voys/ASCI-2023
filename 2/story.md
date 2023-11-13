@@ -22,7 +22,7 @@ In the above example:
 
 - `3-6 e: leurrtgbeeur` is valid since the letter `e` can be found 3 times.
 - `5-6 h: pshhfhxhhhch` is invalid since the letter `h` can be found 7 times.
-- `4-6 l: llpoqlwklpco` is valid since the letter `l` can be found 3 times.
+- `4-6 l: llpoqlwkcpco` is invalid since the letter `l` can be found 3 times.
 
 The security team needs to know which passwords would have been valid according to the official policy so that they can reset those that are non-compliant and restore system access.
 
