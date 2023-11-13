@@ -4,7 +4,7 @@ At Voys the deployment team faced an unexpected challenge. It was discovered tha
 
 The welcome kits were Voys' boxes designed with two compartments: one for the physical telephony devices such as headsets, VoIP phones, and adapters (compartment "Hardware"), and the other for the software elements like mobile apps, webphone credentials, and codecs (compartment "Software").
 
-Each item was to be uniquely identified by a letter code: uppercase for hardware components and lowercase for software components. Due to a programming error in the automated packing script, one type of software component was mistakenly placed in both compartments of each rucksack.
+All items of a given type (Software or Hardware) are meant to go into exactly one of the two compartments. Due to a programming error in the automated packing script it failed to follow this rule for exactly one item type per box.
 
 Voys' engineers quickly put together an inventory report of the packed boxes. They're now enlisting your expertise to create a program that can spot these discrepancies.
 
