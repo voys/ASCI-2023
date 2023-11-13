@@ -13,7 +13,7 @@ For example, they send you a snippet that looks like this:
 ```
 3-6 e: leurrtgbeeur
 5-6 h: pshafhxhhhch
-3-6 l: lcpoqlwklpco
+4-6 l: llpoqlwkcpco
 ```
 
 Each line represents an employee's password record. The password policy indicates the minimum and maximum number of times a specific character must appear for the password to be valid. As per the policy `3-6 e` the password must contain the character 'e' at least three and at most six times.
