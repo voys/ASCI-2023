@@ -11,7 +11,7 @@ Voys needs to identify which customer support agent is currently handling the he
 For example, if you have the following the data:
 
 ```
-1200
+1200 # Estimated amount of seconds
 3000
 450
 
