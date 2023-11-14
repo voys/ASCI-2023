@@ -21,7 +21,7 @@ Visually, the dependencies look like this:
 ```
   -->Anton---->Esther
  /    \         \
-Timon---Dagmar----->Mark
+Timon  Dagmar----->Mark
  \              /
   -------->Pascal
 ```
