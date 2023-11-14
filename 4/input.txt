@@ -1,7 +1,7 @@
 Cornelis must be ready before Patricia can start checking.
 Dagmar must be ready before Frits can start checking.
 Theo must be ready before Mark can start checking.
-Ddosaniel must be ready before Johan can start checking.
+Ddos must be ready before Johan can start checking.
 Lucas must be ready before Otto can start checking.
 Patricia must be ready before Ina can start checking.
 Ddos must be ready before Geert can start checking.
@@ -28,16 +28,16 @@ Henk must be ready before Otto can start checking.
 Theo must be ready before Otto can start checking.
 Henk must be ready before Johan can start checking.
 Anton must be ready before Ina can start checking.
-Ddosaniel must be ready before Rene can start checking.
+Ddos must be ready before Rene can start checking.
 Dagmar must be ready before Theo can start checking.
 Henk must be ready before Maarten can start checking.
 Cornelis must be ready before Anton can start checking.
-Ddosaniel must be ready before Geert can start checking.
+Ddos must be ready before Geert can start checking.
 Laura must be ready before Esther can start checking.
 Theo must be ready before Jan can start checking.
 Anton must be ready before Rene can start checking.
 Mark must be ready before Laura can start checking.
-Ddosaniel must be ready before Laura can start checking.
+Ddos must be ready before Laura can start checking.
 Anton must be ready before Ferdinan can start checking.
 Karin must be ready before Otto can start checking.
 Willem must be ready before Maarten can start checking.
@@ -56,7 +56,7 @@ Maarten must be ready before Otto can start checking.
 Lucas must be ready before Henk can start checking.
 Mark must be ready before Suzan can start checking.
 Jan must be ready before Otto can start checking.
-Ddosaniel must be ready before Ina can start checking.
+Ddos must be ready before Ina can start checking.
 Ferdinan must be ready before Henk can start checking.
 Ddos must be ready before Johan can start checking.
 Erik must be ready before Maarten can start checking.
@@ -67,7 +67,7 @@ Cornelis must be ready before Ddos can start checking.
 Anton must be ready before Mark can start checking.
 Frits must be ready before Ina can start checking.
 Rene must be ready before Esther can start checking.
-Ddosaniel must be ready before Anton can start checking.
+Ddos must be ready before Anton can start checking.
 Nancy must be ready before Laura can start checking.
 Henk must be ready before Geert can start checking.
 Esther must be ready before Maarten can start checking.
@@ -80,7 +80,7 @@ Dagmar must be ready before Jan can start checking.
 Jan must be ready before Ina can start checking.
 Jan must be ready before Mark can start checking.
 Willem must be ready before Otto can start checking.
-Ddosaniel must be ready before Ferdinan can start checking.
+Ddos must be ready before Ferdinan can start checking.
 Rene must be ready before Maarten can start checking.
 Dagmar must be ready before Suzan can start checking.
 Henk must be ready before Erik can start checking.
