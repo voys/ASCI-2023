@@ -32,7 +32,7 @@ jmp -4 | 5
 acc +6 |
 ```
 
-First, the ` nop +0`` does nothing. In the next step, the accumulator is increased from  `0`to`1` (`acc +1`). In the next instruction (`jmp +4`), a jump of `4`steps is made to the instruction acc`+1`. This instruction increases the value of the accumulator from `1`to`2`. Then `jmp -4`is executed and the program jumps to`acc +3`. Here, the accumulator is adjusted from `2`to`5`. The `jmp -3`will bring the program back to`acc +1` from the second line. This line has already been executed.
+First, the ` nop +0` does nothing. In the next step, the accumulator is increased from  `0` to `1` (`acc +1`). In the next instruction (`jmp +4`), a jump of `4` steps is made to the instruction `acc +1`. This instruction increases the value of the accumulator from `1` to `2`. Then `jmp -4` is executed and the program jumps to `acc +3`. Here, the accumulator is adjusted from `2` to `5`. The `jmp -3` will bring the program back to `acc +1` from the second line. This line has already been executed.
 
 And here we see the program entered an infinite loop and will never stop. The moment the program wants to execute an instruction for the second time is the moment to stop the program. This instruction should not be executed anymore. At the time of stopping the example, the value of the accumulator is `5`. That is the answer for the example.
 
