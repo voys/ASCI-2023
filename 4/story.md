@@ -38,4 +38,4 @@ In the example, this becomes:
 
 So in this example, the correct order is: `Timon, Anton, Dagmar, Esther, Pascal, Mark`.
 
-_**What is the correct order of steps given the input?_**
+_**What is the correct order of steps given the input?**_
