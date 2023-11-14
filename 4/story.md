@@ -26,7 +26,7 @@ Timon---Dagmar----->Mark
   -------->Pascal
 ```
 
-Your task is to determine the correct order of steps. If more than one step can be taken, choose the step that comes last in alphabetical order.
+Your task is to determine the correct order of steps. If more than one step can be taken, choose the step that comes first in alphabetical order.
 
 In the example, this becomes:
 - Only `Timon` can start checking because he has no dependencies.
